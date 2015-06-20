@@ -23,3 +23,6 @@ int main(){
 //git remote add origin https://github.com/s00282/proj.git  //設定位置
 //git push -u origin master //上傳檔案，上船前記得commit
 //git pull //下載程式碼
+//git branch -a //list all branch
+// git checkout branch_name //switch to another branch
+// git branch branch_namae -d // delete branch
