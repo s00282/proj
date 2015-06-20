@@ -26,3 +26,6 @@ int main(){
 //git branch -a //list all branch
 // git checkout branch_name //switch to another branch
 // git branch branch_namae -d // delete branch
+
+//git log --graph // branch ui
+//git merge --no-ff branch_name // merge branch to master
