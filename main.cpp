@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
 	printf("test1234567890-");
+	printf("slavvvvvvvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeee-");
+	fghjkl;lkjhg
 	return 0;
 }
 //git init 初始 第一次用就好
@@ -20,3 +22,7 @@ int main(){
 //註冊帳號，mail and user 都要一樣
 //git remote add origin https://github.com/s00282/proj.git  //設定位置
 //git push -u origin master //上傳檔案，上船前記得commit
+//git pull //下載程式碼
+//git branch -a //list all branch
+// git checkout branch_name //switch to another branch
+// git branch branch_namae -d // delete branch
