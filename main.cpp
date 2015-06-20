@@ -2,6 +2,7 @@
 int main(){
 	printf("test1234567890-");
 	printf("slavvvvvvvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeee-");
+	fghjkl;lkjhg
 	return 0;
 }
 //git init 初始 第一次用就好
